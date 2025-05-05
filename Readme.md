@@ -1,3 +1,3 @@
 # Backend Learning Phase
 
-This is a Learning Project
+This is a Learning Backend Project.
